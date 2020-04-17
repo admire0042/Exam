@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\bin\Debug\netcoreapp3.1\RectangleTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\bin\Debug\netcoreapp3.1\RectangleTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\bin\Debug\netcoreapp3.1\RectangleTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\bin\Debug\netcoreapp3.1\RectangleTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\bin\Debug\netcoreapp3.1\RectangleTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\bin\Debug\netcoreapp3.1\RectangleTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Examination\RectangleTest\obj\Debug\netcoreapp3.1\RectangleTest.genruntimeconfig.cache
